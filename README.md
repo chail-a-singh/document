@@ -34,7 +34,7 @@ This project is used by the following companies:
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Infibeam Avenue Pvt Ltd.
+👩‍💻 I'm currently working at OPL innovate
 
 🧠 I'm currently learning Angular.
 
